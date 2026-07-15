@@ -39,10 +39,5 @@ This project analyzes Electric Vehicle (EV) charging station data using **Power 
 ## Repository Contents
 
 - `EV Charging Station Analytics.pbix`
-- `EV Charging Stations Analysis Report.pdf`
-- `Dataset` (if available)
-- Dashboard screenshots
-
-## Author
-
-**Ifra Siddiqua**
+- `Dataset`
+- 
